@@ -1,5 +1,3 @@
-# syt288.github.io
-
 ## Self-Introduction
 
 ![profile image](https://github.com/syt228/syt228.github.io/blob/main/Thompson_Sydney.jpeg?raw=true)
