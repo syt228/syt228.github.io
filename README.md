@@ -9,11 +9,12 @@ Learn more about me on my [LinkedIn Page](www.linkedin.com/in/sydneyrthompson-)
 
 ## Class work for Data Journalism 
 
-#Infographics:
+# Infographics:
 
 Lehigh Office of Institutional Data Project:
 During this project, we were asked to use Canva and create an infographic showing institutional data from Fall of 2024 for Lehigh Unviersity.I decided to look into admission data, specifcally, how many people applied, were accepted, and ended up accepting their offer. As Lehigh becomes more popular, more people are applying. When looking at the data displayed within the inforgraphic, I though it was interesting to show how many people applied and the eventual matriculants.
 
 
 ![infographic practice](https://github.com/syt228/syt228.github.io/blob/main/Data%20Journalism%20Infographic%20Practice%20-%20Lehigh%20Enrollment%20Data%20(1).png?raw=true)
+
 Link to Dataset: [Dataset](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf)
