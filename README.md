@@ -8,3 +8,9 @@ My name is Sydney Thompson and I am a second-year student at Lehigh University. 
 At Lehigh, I am a part of the Lehigh Women's Wrestling program. Additionally, I write for the Brown & White's sport section and am an associate editior.
 
 Learn more about me on my [LinkedIn Page](www.linkedin.com/in/sydneyrthompson-)
+
+## Class work for Data Journalism 
+
+Infographics:
+
+![infographic practice](https://github.com/syt228/syt228.github.io/blob/main/Data%20Journalism%20Infographic%20Practice%20-%20Lehigh%20Enrollment%20Data%20(1).png?raw=true)
