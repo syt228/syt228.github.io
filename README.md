@@ -9,9 +9,8 @@ Learn more about me on my [LinkedIn Page](www.linkedin.com/in/sydneyrthompson-)
 
 ## Class work for Data Journalism 
 
-# Infographics:
 
-Lehigh Office of Institutional Data Project:
+### Lehigh Office of Institutional Data Project:
 
 During this project, we were asked to use Canva and create an infographic showing institutional data from Fall of 2024 for Lehigh Unviersity.I decided to look into admission data, specifcally, how many people applied, were accepted, and ended up accepting their offer. As Lehigh becomes more popular, more people are applying. When looking at the data displayed within the inforgraphic, I though it was interesting to show how many people applied and the eventual matriculants.
 
@@ -20,7 +19,7 @@ During this project, we were asked to use Canva and create an infographic showin
 
 Link to [Dataset](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf)
 
-World's Largest Beverage Company By 2024 Sales:
+### World's Largest Beverage Company By 2024 Sales:
 
 During this project, I decided to look into the world's largest beverage companies. I wondered who was leading the world in sales; American companies? Companies with products I often drank? During my research I looked into sales (listed in millions of USD) with the most sales in 2024. This data, shown in the infographic below, shows who led the world last year and sales and gives readers an idea of who will lead this year. I personally was suprised that Coca-Cola Co. and PepsiCo Inc. weren't the highest companies. This data made me more aware of leading compaines that often get sales in other continent and countries in relation to common beverage companies I see in the U.S.
 
