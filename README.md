@@ -29,4 +29,11 @@ Link to [Dataset](https://www.statista.com/statistics/307963/leading-beverage-co
 
 ### LeLaf Timeline Project 
 
+During the project, I used data from past important Lehigh-Lafayette rivraly football games. 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRFZOdfMA3B-PiRBKGCVZbSlt80WN18fsOkQezw7zsxhEFJ6JVhKsTua12jMSjiOqjDwANjgXgeC67H&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
+
+### Brown & White Timeline Project 
+
+During this project I found infomration about the history and creation of Lehigh's student-run newspaper, The Brown and White. 
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRFZOdfMA3B-PiRBKGCVZbSlt80WN18fsOkQezw7zsxhEFJ6JVhKsTua12jMSjiOqjDwANjgXgeC67H&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
