@@ -26,3 +26,7 @@ During this project, I decided to look into the world's largest beverage compani
 ![infographic practice](https://github.com/syt228/syt228.github.io/blob/main/Data%20Journalism%20Infographic%20Project%20.png?raw=true)
 
 Link to [Dataset](https://www.statista.com/statistics/307963/leading-beverage-companies-worldwide-based-on-net-sales/)
+
+### LeLaf Timeline Project 
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRFZOdfMA3B-PiRBKGCVZbSlt80WN18fsOkQezw7zsxhEFJ6JVhKsTua12jMSjiOqjDwANjgXgeC67H&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
