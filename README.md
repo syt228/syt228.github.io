@@ -41,3 +41,10 @@ During this projetc I use Lehigh's undergraduate enrollment data for the differe
 <iframe title="Lehigh Undergraduate Enrollment 2020" aria-label="Pie Chart" id="datawrapper-chart-ZHate" src="https://datawrapper.dwcdn.net/ZHate/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="411" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 Link to [Dataset](https://docs.google.com/spreadsheets/d/1dFnkn8Sm_aJHxFLC6DD8W4mIthVDjTIz6A0h-_kE2lA/edit?usp=sharing)
+
+### Tipping Culture in Eurpoe and America 
+
+For this project I used DataWrapper to use data from YouGov to gather data about the variety of tipping culture people have in the home countries. The data was vizualized to show if people often tipped or not at different businesses and compared that to other countries. This allows for viewers to easily see how tipping culture varies between countries and businesses.
+
+<iframe title="Tipping Culture in Countries" aria-label="Split Bars" id="datawrapper-chart-bFQNW" src="https://datawrapper.dwcdn.net/bFQNW/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="630" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+
