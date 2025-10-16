@@ -44,7 +44,7 @@ During this project I found infomration about the history and creation of Lehigh
 
 
 
-During this projetc I use Lehigh's undergraduate enrollment data for the different colleges and intercollegiate programs. I was able to use DataWrapper to get this data and make is easily digestable to viewers using a pie chart. 
+During this project I used Lehigh's undergraduate enrollment data for the different colleges and intercollegiate programs. I was able to use DataWrapper to get this data and make is easily digestable to viewers using a pie chart. 
 
 <iframe title="Lehigh Undergraduate Enrollment 2020" aria-label="Pie Chart" id="datawrapper-chart-ZHate" src="https://datawrapper.dwcdn.net/ZHate/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="411" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
