@@ -32,3 +32,12 @@ Link to [Dataset](https://www.statista.com/statistics/307963/leading-beverage-co
 During this project I found infomration about the history and creation of Lehigh's student-run newspaper, The Brown and White. This is a brief overview of the Brown and White and how it has changed over the years.
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRFZOdfMA3B-PiRBKGCVZbSlt80WN18fsOkQezw7zsxhEFJ6JVhKsTua12jMSjiOqjDwANjgXgeC67H&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+
+### Lehigh Undergraduate Enrollment in 2020: Pie Chart 
+
+During this projetc I use Lehigh's undergraduate enrollment data for the different colleges and intercollegiate programs. I was able to use DataWrapper to get this data and make is easily digestable to viewers using a pie chart. 
+
+<iframe title="Lehigh Undergraduate Enrollment 2020" aria-label="Pie Chart" id="datawrapper-chart-ZHate" src="https://datawrapper.dwcdn.net/ZHate/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="411" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+
+Link to [Dataset](https://docs.google.com/spreadsheets/d/1dFnkn8Sm_aJHxFLC6DD8W4mIthVDjTIz6A0h-_kE2lA/edit?usp=sharing)
