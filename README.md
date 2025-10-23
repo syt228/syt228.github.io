@@ -50,7 +50,7 @@ During this project I used Lehigh's undergraduate enrollment data for the differ
 
 Link to [Dataset](https://docs.google.com/spreadsheets/d/1dFnkn8Sm_aJHxFLC6DD8W4mIthVDjTIz6A0h-_kE2lA/edit?usp=sharing)
 
-### Tipping Culture in Eurpoe and America 
+### Tipping Culture in Europe and America 
 
 
 
@@ -60,8 +60,20 @@ For this project I used DataWrapper to use data from YouGov to gather data about
 
 ### Top 20 Cycling Cities in the World in 2019 
 
+
+
 For this project I used Google Maps to create a visualization for cycling friendly cities around the world. Users can look through the map at different cities, their respective rankings and a brief descriptions about them. 
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=16JGHKtgpyY5nEqs6k4t9Fo9xEiidLWM&ehbc=2E312F" width="640" height="480"></iframe> 
 
 Link to [Dataset](https://docs.google.com/spreadsheets/d/1e9gwx8pyaeF5-R2Jr1NI67OuNTM0kxkRlTOGwepYSiA/edit?usp=sharing)
+
+
+### To 8 Beverage Companies in the World in 2025
+
+
+For this project I looked at  eight of the world’s leading beverage companies. Together, these corporations shape the international beverage industry through innovation, marketing and sustainability initiatives across categories like soft drinks, coffee, beer, spirits, and energy drinks.
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1McgaQlv5txFaJO7RRviEFPOe65z7AFw&ehbc=2E312F" width="640" height="480"></iframe>
+
+Link to [Dataset](https://docs.google.com/spreadsheets/d/11Kmrj0eyURV1ubZysIcP9UycOdXtdPWnp0RK6SCHV0M/edit?usp=sharing)
