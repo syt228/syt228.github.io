@@ -2,14 +2,14 @@
 
 ![profile image](https://github.com/syt228/syt228.github.io/blob/main/Thompson_Sydney.jpeg?raw=true)
 
-My name is Sydney Thompson and I am a second-year student at Lehigh University. I am studying Journalism with a minor in Marketing. I am from Eaton Rapids, Michigan and I love my time so far at Lehigh!
+My name is Sydney Thompson and I am a second-year student at Lehigh University. I am studying Journalism & Sociology with a minor in Marketing. I am from Eaton Rapids, Michigan and I love my time so far at Lehigh!
 At Lehigh, I am a part of the Lehigh Women's Wrestling program. Additionally, I write for the Brown & White's sport section and am an associate editior.
 
 Learn more about me on my [Page](https://sydneyru06.wixsite.com/portfolio)
 
 ## Class work for Data Journalism 
 
-### Brown & White Timeline Project 
+### Brown & White, Growing & Changing
 
 
 
@@ -18,7 +18,7 @@ During this project I found infomration about the history and creation of Lehigh
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRFZOdfMA3B-PiRBKGCVZbSlt80WN18fsOkQezw7zsxhEFJ6JVhKsTua12jMSjiOqjDwANjgXgeC67H&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 
-### Lehigh Undergraduate Enrollment in 2020: Pie Chart 
+### Lehigh Undergraduate Intercollegite Programs 
 
 
 
@@ -28,7 +28,7 @@ During this project I used Lehigh's undergraduate enrollment data for the differ
 
 Link to [Dataset](https://docs.google.com/spreadsheets/d/1dFnkn8Sm_aJHxFLC6DD8W4mIthVDjTIz6A0h-_kE2lA/edit?usp=sharing)
 
-### Party Location Preference at Lehigh University 
+### Where do Lehigh students like to party? 
 
 
 
@@ -40,7 +40,7 @@ This is my second dashboard for the project, where I added group affiliations fo
 
 <div class='tableauPlaceholder' id='viz1761862276572' style='position: relative'><noscript><a href='#'><img alt='Dashboard 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17618346687780&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book1_17618346687780&#47;Dashboard2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17618346687780&#47;Dashboard2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1761862276572'); var vizElement = divElement.getElementsByTagName('object')[0]; if ( divElement.offsetWidth > 800 ) { vizElement.style.minWidth='420px';vizElement.style.maxWidth='650px';vizElement.style.width='100%';vizElement.style.minHeight='587px';vizElement.style.maxHeight='887px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.minWidth='420px';vizElement.style.maxWidth='650px';vizElement.style.width='100%';vizElement.style.minHeight='587px';vizElement.style.maxHeight='887px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='727px';} var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
 
-### Tipping Culture in Europe and America 
+### Tipping: Europe vs. United States 
 
 
 
@@ -49,7 +49,7 @@ For this project I used DataWrapper to use data from YouGov to gather data about
 <iframe title="Tipping Culture in Countries" aria-label="Split Bars" id="datawrapper-chart-bFQNW" src="https://datawrapper.dwcdn.net/bFQNW/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="630" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 
-### World's Largest Beverage Company By 2024 Sales:
+### Billions by Beverage Companies
 
 
 
@@ -60,7 +60,7 @@ During this project, I decided to look into the world's largest beverage compani
 Link to [Dataset](https://www.statista.com/statistics/307963/leading-beverage-companies-worldwide-based-on-net-sales/)
 
 
-### To 8 Beverage Companies in the World in 2025
+### Beverage Companies Leaders in 2025
 
 
 For this project I looked at  eight of the world’s leading beverage companies. Together, these corporations shape the international beverage industry through innovation, marketing and sustainability initiatives across categories like soft drinks, coffee, beer, spirits, and energy drinks.
@@ -71,11 +71,11 @@ Link to [Dataset](https://docs.google.com/spreadsheets/d/11Kmrj0eyURV1ubZysIcP9U
 
 
 
-### Higher Education IPEDS Data in 2013
+### Higher Education Data in 2013
 
 
 
-For this project I looked at data from 2013 to look at the different univerities, data about them and what they offer. I used Tableau to create this vizualization to show the data. 
+For this project I looked at IDEPS data from 2013 to look at the different univerities, data about them and what they offer. I used Tableau to create this vizualization to show the data. 
 
 
 
