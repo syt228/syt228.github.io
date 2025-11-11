@@ -46,7 +46,7 @@ This is my second dashboard for the project, where I added group affiliations fo
 
 
 
-### Higher Education Data in 2013
+#### Higher Education Data in 2013
 
 
 
@@ -73,7 +73,7 @@ Link to [Dataset](https://doc-00-54sheets.googleusercontent.com/export/39c750hps
 This next section of projects shows food, drink and restaurant trends. I looked at beverage company leaders and differences in cutlture, like tipping, in different countries. 
 
 
-### Tipping: Europe vs. United States 
+#### Tipping: Europe vs. United States 
 
 
 
@@ -82,7 +82,7 @@ For this project I used DataWrapper to use data from YouGov to gather data about
 <iframe title="Tipping Culture in Countries" aria-label="Split Bars" id="datawrapper-chart-bFQNW" src="https://datawrapper.dwcdn.net/bFQNW/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="630" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 
-### Billions by Beverage Companies
+#### Billions by Beverage Companies
 
 
 
@@ -93,7 +93,7 @@ During this project, I decided to look into the world's largest beverage compani
 Link to [Dataset](https://www.statista.com/statistics/307963/leading-beverage-companies-worldwide-based-on-net-sales/)
 
 
-### Beverage Companies Leaders in 2025
+#### Beverage Companies Leaders in 2025
 
 
 For this project I looked at  eight of the world’s leading beverage companies. Together, these corporations shape the international beverage industry through innovation, marketing and sustainability initiatives across categories like soft drinks, coffee, beer, spirits, and energy drinks.
