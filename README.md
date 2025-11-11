@@ -9,7 +9,11 @@ Learn more about me on my [Page](https://sydneyru06.wixsite.com/portfolio)
 
 ## Class work for Data Journalism 
 
-### Brown & White, Growing & Changing
+### Lehigh-Focused Projects
+
+Many of my projects during this class used data about or from Lehigh. I was able to examine different things about the university, from enrollment to student's preferences for partying. Some of the projects included national high education data to see how Lehigh fits into the broader collegite scope within the United States.
+
+#### Brown & White, Growing & Changing
 
 
 
@@ -18,7 +22,7 @@ During this project I found infomration about the history and creation of Lehigh
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRFZOdfMA3B-PiRBKGCVZbSlt80WN18fsOkQezw7zsxhEFJ6JVhKsTua12jMSjiOqjDwANjgXgeC67H&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 
-### Lehigh Undergraduate Intercollegite Programs 
+#### Lehigh Undergraduate Intercollegite Programs 
 
 
 
@@ -28,7 +32,7 @@ During this project I used Lehigh's undergraduate enrollment data for the differ
 
 Link to [Dataset](https://docs.google.com/spreadsheets/d/1dFnkn8Sm_aJHxFLC6DD8W4mIthVDjTIz6A0h-_kE2lA/edit?usp=sharing)
 
-### Where do Lehigh students like to party? 
+#### Where do Lehigh students like to party? 
 
 
 
@@ -39,6 +43,35 @@ This is my second dashboard for the project, where I added group affiliations fo
 
 
 <div class='tableauPlaceholder' id='viz1761862276572' style='position: relative'><noscript><a href='#'><img alt='Dashboard 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17618346687780&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book1_17618346687780&#47;Dashboard2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17618346687780&#47;Dashboard2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1761862276572'); var vizElement = divElement.getElementsByTagName('object')[0]; if ( divElement.offsetWidth > 800 ) { vizElement.style.minWidth='420px';vizElement.style.maxWidth='650px';vizElement.style.width='100%';vizElement.style.minHeight='587px';vizElement.style.maxHeight='887px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.minWidth='420px';vizElement.style.maxWidth='650px';vizElement.style.width='100%';vizElement.style.minHeight='587px';vizElement.style.maxHeight='887px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='727px';} var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
+
+
+
+### Higher Education Data in 2013
+
+
+
+For this project I looked at IDEPS data from 2013 to look at the different univerities, data about them and what they offer. I used Tableau to create this vizualization to show the data. 
+
+
+
+<div class='tableauPlaceholder' id='viz1762442432803' style='position: relative'><noscript><a href='#'><img alt='Higher Education IPEDS Data in 2013  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;72&#47;72ZKKSFPN&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;72ZKKSFPN' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;72&#47;72ZKKSFPN&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div><script type='text/javascript'>var divElement = document.getElementById('viz1762442432803');var vizElement = divElement.getElementsByTagName('object')[0];vizElement.style.width='1016px';vizElement.style.height='991px';var scriptElement = document.createElement('script');scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
+
+Link to [Dataset](https://docs.google.com/spreadsheets/d/16WNZwO8Wpli-57mz06GQxDbqy8Ij9DZeIJ1bO6XNjP4/edit?usp=sharing)
+
+
+
+Next, I used data from 2022-2023 about public schools to show the differences in enrollment, size, virtual standing due to COVID-19 and other data. I used Tableau to represent this data so that users can see the differences in school levels, enrollment along with location. 
+
+<div class='tableauPlaceholder' id='viz1762633002250' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17618346687780&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book1_17618346687780&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17618346687780&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div><script type='text/javascript'>var divElement = document.getElementById('viz1762633002250');var vizElement = divElement.getElementsByTagName('object')[0];if ( divElement.offsetWidth > 800 ) { vizElement.style.minWidth='420px';vizElement.style.maxWidth='650px';vizElement.style.width='100%';vizElement.style.minHeight='587px';vizElement.style.maxHeight='887px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.minWidth='420px';vizElement.style.maxWidth='650px';vizElement.style.width='100%';vizElement.style.minHeight='587px';vizElement.style.maxHeight='887px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}var scriptElement = document.createElement('script');scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
+
+
+Link to [Dataset](https://doc-00-54sheets.googleusercontent.com/export/39c750hpspb03ll2d05ar8vgj4/jkdvlsatknnu72o8uflcp8kc0k/1762524570000/102722379471369286466/102722379471369286466/1NG5eqGesPZhKCwUJwQV-pYvmCOap_QJajlrDy27UADg?format=xlsx&id=1NG5eqGesPZhKCwUJwQV-pYvmCOap_QJajlrDy27UADg&dat=AAqC4RB3uXaInT-oD1leEtCv3rzjnLmh5C854SGFmInXf-SD8zszqDJFnMvyN6U1UMwZhNHK1VsuRrdDk5bDRQwlsOtacEPyQaopAEijDxmYw1SuFiCb6ghUQ1AnC7NkWCiJbC_h6z7GLoP_YAddxSpTzPkgOHPP0z8xlfWH35omFXNN1MG9MTUbLR7IoW3HKI1nzhQYT_q-wTNtOCatStqfWSFMocvnNnkv76ne3HPsa2jJx99yD3EMCVXJBCP58otfXRZnzcpj0-raw-lPYDkxK0-X4j1t1fJjKfTiCK0b3ZzOQnO_Phi7KgRq46EjO_TfFzNIPTCXf905KnAzeyJIJKHcqtXQ_W1Du6duwFsiQfiF8R_Za2RafvGLvr3ng_ElIdppEqftw0WePaeM3K7HhqKVZm2qG7byCQHXpG9-kz4HmSMgMW7l-wNqiMuu0nRqQ-gxxVMtc01NajeHa1KZ_SsyXZ04R0rxu_3W730ZvNgiFC536DqLUsP-w40BNkkZ7ZINE0xHgxdonW8qGtNN4gCCgleJuKN956LmPjDEMmdVgaeE-WYy5MUkKUjPijsZZ4crsVaYe15P0pMjAZDSAGh6kBNdEQSuDOmHgm50lU7HDjZ3BFIxKDHWohNhw0ixgjDvzeUO05UFbHe0x2adBTYp_GRaO94ol89_eNJ63pjcnxJ_EV6bKllSVhTejVzr2JTMeO1JO4pEVpbujfinHG3j-xGdLFT8Uo798izbxYMv6MFHp1fzUD2dPk6lO6cTuQq-YPESdBMkceI-2cukLrDmaXpugnpA8sR622BHllNMaGiMfF_ALuAFDWIYiYQDEAjFv0TIPw6i1Vo5bAG-JcII-sWuVcCuuYVObc5Ei2YFVRsQGxR0n_AV_UJmsXVibn3RT0cmqoNPRXwE155JL5BsF0eHCCs1V68rGREapvkM5lo90Kvr9qBLP10zsKEpJUy8NuMRk7jr4Jf4TteoestlJLp1TMsxx2PoEOk9y413cy2rys6u5JZS78Y3vgHrWoJRKgfDOTdb22irkrR-PR7cwfCosVSzLuyfPg)
+
+
+### Worldwide Food & Restaurant Trends
+
+This next section of projects shows food, drink and restaurant trends. I looked at beverage company leaders and differences in cutlture, like tipping, in different countries. 
+
 
 ### Tipping: Europe vs. United States 
 
@@ -71,23 +104,3 @@ Link to [Dataset](https://docs.google.com/spreadsheets/d/11Kmrj0eyURV1ubZysIcP9U
 
 
 
-### Higher Education Data in 2013
-
-
-
-For this project I looked at IDEPS data from 2013 to look at the different univerities, data about them and what they offer. I used Tableau to create this vizualization to show the data. 
-
-
-
-<div class='tableauPlaceholder' id='viz1762442432803' style='position: relative'><noscript><a href='#'><img alt='Higher Education IPEDS Data in 2013  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;72&#47;72ZKKSFPN&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;72ZKKSFPN' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;72&#47;72ZKKSFPN&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div><script type='text/javascript'>var divElement = document.getElementById('viz1762442432803');var vizElement = divElement.getElementsByTagName('object')[0];vizElement.style.width='1016px';vizElement.style.height='991px';var scriptElement = document.createElement('script');scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
-
-Link to [Dataset](https://docs.google.com/spreadsheets/d/16WNZwO8Wpli-57mz06GQxDbqy8Ij9DZeIJ1bO6XNjP4/edit?usp=sharing)
-
-
-
-Next, I used data from 2022-2023 about public schools to show the differences in enrollment, size, virtual standing due to COVID-19 and other data. I used Tableau to represent this data so that users can see the differences in school levels, enrollment along with location. 
-
-<div class='tableauPlaceholder' id='viz1762633002250' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17618346687780&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book1_17618346687780&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17618346687780&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div><script type='text/javascript'>var divElement = document.getElementById('viz1762633002250');var vizElement = divElement.getElementsByTagName('object')[0];if ( divElement.offsetWidth > 800 ) { vizElement.style.minWidth='420px';vizElement.style.maxWidth='650px';vizElement.style.width='100%';vizElement.style.minHeight='587px';vizElement.style.maxHeight='887px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.minWidth='420px';vizElement.style.maxWidth='650px';vizElement.style.width='100%';vizElement.style.minHeight='587px';vizElement.style.maxHeight='887px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}var scriptElement = document.createElement('script');scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
-
-
-Link to [Dataset](https://doc-00-54sheets.googleusercontent.com/export/39c750hpspb03ll2d05ar8vgj4/jkdvlsatknnu72o8uflcp8kc0k/1762524570000/102722379471369286466/102722379471369286466/1NG5eqGesPZhKCwUJwQV-pYvmCOap_QJajlrDy27UADg?format=xlsx&id=1NG5eqGesPZhKCwUJwQV-pYvmCOap_QJajlrDy27UADg&dat=AAqC4RB3uXaInT-oD1leEtCv3rzjnLmh5C854SGFmInXf-SD8zszqDJFnMvyN6U1UMwZhNHK1VsuRrdDk5bDRQwlsOtacEPyQaopAEijDxmYw1SuFiCb6ghUQ1AnC7NkWCiJbC_h6z7GLoP_YAddxSpTzPkgOHPP0z8xlfWH35omFXNN1MG9MTUbLR7IoW3HKI1nzhQYT_q-wTNtOCatStqfWSFMocvnNnkv76ne3HPsa2jJx99yD3EMCVXJBCP58otfXRZnzcpj0-raw-lPYDkxK0-X4j1t1fJjKfTiCK0b3ZzOQnO_Phi7KgRq46EjO_TfFzNIPTCXf905KnAzeyJIJKHcqtXQ_W1Du6duwFsiQfiF8R_Za2RafvGLvr3ng_ElIdppEqftw0WePaeM3K7HhqKVZm2qG7byCQHXpG9-kz4HmSMgMW7l-wNqiMuu0nRqQ-gxxVMtc01NajeHa1KZ_SsyXZ04R0rxu_3W730ZvNgiFC536DqLUsP-w40BNkkZ7ZINE0xHgxdonW8qGtNN4gCCgleJuKN956LmPjDEMmdVgaeE-WYy5MUkKUjPijsZZ4crsVaYe15P0pMjAZDSAGh6kBNdEQSuDOmHgm50lU7HDjZ3BFIxKDHWohNhw0ixgjDvzeUO05UFbHe0x2adBTYp_GRaO94ol89_eNJ63pjcnxJ_EV6bKllSVhTejVzr2JTMeO1JO4pEVpbujfinHG3j-xGdLFT8Uo798izbxYMv6MFHp1fzUD2dPk6lO6cTuQq-YPESdBMkceI-2cukLrDmaXpugnpA8sR622BHllNMaGiMfF_ALuAFDWIYiYQDEAjFv0TIPw6i1Vo5bAG-JcII-sWuVcCuuYVObc5Ei2YFVRsQGxR0n_AV_UJmsXVibn3RT0cmqoNPRXwE155JL5BsF0eHCCs1V68rGREapvkM5lo90Kvr9qBLP10zsKEpJUy8NuMRk7jr4Jf4TteoestlJLp1TMsxx2PoEOk9y413cy2rys6u5JZS78Y3vgHrWoJRKgfDOTdb22irkrR-PR7cwfCosVSzLuyfPg)
