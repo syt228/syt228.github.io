@@ -10,17 +10,6 @@ Learn more about me on my [Page](https://sydneyru06.wixsite.com/portfolio)
 ## Class work for Data Journalism 
 
 
-### Lehigh Office of Institutional Data Project:
-
-
-
-During this project, we were asked to use Canva and create an infographic showing institutional data from Fall of 2024 for Lehigh Unviersity.I decided to look into admission data, specifcally, how many people applied, were accepted, and ended up accepting their offer. As Lehigh becomes more popular, more people are applying. When looking at the data displayed within the inforgraphic, I though it was interesting to show how many people applied and the eventual matriculants.
-
-
-![infographic practice](https://github.com/syt228/syt228.github.io/blob/main/Data%20Journalism%20Infographic%20Practice%20-%20Lehigh%20Enrollment%20Data%20(1).png?raw=true)
-
-Link to [Dataset](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf)
-
 ### World's Largest Beverage Company By 2024 Sales:
 
 
@@ -83,10 +72,6 @@ Link to [Dataset](https://docs.google.com/spreadsheets/d/11Kmrj0eyURV1ubZysIcP9U
 
 
 For this project I looked at data from 2016 where students answered a survey about partying, their demographic and how they felt about it. I used Tableau to create this vizualization to show the data. 
-
-<div class='tableauPlaceholder' id='viz1761834744945' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17618346687780&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book1_17618346687780&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17618346687780&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1761834744945');var vizElement = divElement.getElementsByTagName('object')[0]; if ( divElement.offsetWidth > 800 ) { vizElement.style.minWidth='420px';vizElement.style.maxWidth='650px';vizElement.style.width='100%';vizElement.style.minHeight='587px';vizElement.style.maxHeight='887px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.minWidth='420px';vizElement.style.maxWidth='650px';vizElement.style.width='100%';vizElement.style.minHeight='587px';vizElement.style.maxHeight='887px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='727px';} var scriptElement = document.createElement('script');scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
-
-
 
 This is my second dashboard for the project, where I added group affiliations for the data. Viewers can see groups people are a part of and their preferences in party locations compared to gender.
 
