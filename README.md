@@ -13,7 +13,7 @@ Learn more about me on my [Page](https://sydneyru06.wixsite.com/portfolio)
 
 Many of my projects during this class used data about or from Lehigh. I was able to examine different things about the university, from enrollment to student's preferences for partying. Some of the projects included national high education data to see how Lehigh fits into the broader collegite scope within the United States.
 
-#### Brown & White, Growing & Changing
+#### The Brown & White: Growing & Changing
 
 
 
